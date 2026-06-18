@@ -1,4 +1,11 @@
-# Hi, I'm P. Puhathalojan 👋
+<--# Hi, I'm P. Puhathalojan 👋-->
+<h1 align="center">
+  Hi 👋 I'm P. Puhathalojan
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;HNDIT+Student;Web+%26+Software+Enthusiast" />
+</p>
 
 ### Aspiring Full Stack Developer
 
@@ -21,8 +28,8 @@ To build a successful career as a Full Stack Developer while developing expertis
 
 ### Frontend Development
 
-* HTML5
-* CSS3
+- HTML5
+- CSS3
 * JavaScript
 * Bootstrap
 * jQuery
@@ -100,8 +107,6 @@ A professional NGO website developed using WordPress.
 ## 🏆 Coding Profiles
 
 * GitHub: https://github.com/pugalMarxis
-  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pugalMarxis&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- * LeetCode: https://leetcode.com/u/pugalMarxis
  ![LeetCode Stats](https://leetcard.jacoblin.cool/pugalMarxis?theme=wtf&font=Marcellus&ext=contest)
@@ -109,14 +114,18 @@ A professional NGO website developed using WordPress.
 
 
 ---
+## 📈 GitHub Activity
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pugalMarxis&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 ## 📫 Connect With Me
 
 * Portfolio: https://pugalMarxis.com
 * Email: [raampugal07@gmail.com](mailto:raampugal07@gmail.com)
-* LinkedIn: [Add Your LinkedIn Profile URL Here](https://www.linkedin.com/in/puhatha-lojan/)
+* LinkedIn: [(https://www.linkedin.com/in/puhatha-lojan/)]
 
 ---
+
 
 > "Continuous learning, consistent practice, and real-world projects are the foundation of professional growth."
 
