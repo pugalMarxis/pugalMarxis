@@ -19,11 +19,11 @@
 </div>
 
 <br/>
-
 ### 🛠️ Core Systems & Tech Stack
 
 ```ini
 [Environment: Production]   [Security_Level: Maximum]   [Status: Online]
+```
 
 ### Aspiring Full Stack Developer
 
