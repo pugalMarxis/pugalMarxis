@@ -2,49 +2,28 @@
 
 <div align="center">
 
-  <!-- Premium Cyber Terminal Header Banner -->
-  <svg viewBox="0 0 850 260" width="100%" style="background:#0b0f19; border: 1px solid #00c2ff; border-radius: 8px; font-family: 'JetBrains Mono', 'Fira Code', monospace; box-shadow: 0 0 20px rgba(0, 194, 255, 0.15);">
-    <!-- Hexagon Grid Accent Background Details -->
-    <path d="M10 30 L20 15 L40 15 L50 30 L40 45 L20 45 Z" fill="none" stroke="#00c2ff" stroke-width="1" opacity="0.2"/>
-    <path d="M25 55 L35 40 L55 40 L65 55 L55 70 L35 70 Z" fill="none" stroke="#00ff88" stroke-width="1" opacity="0.15"/>
-    <path d="M800 210 L810 195 L830 195 L840 210 L830 225 L810 225 Z" fill="none" stroke="#00c2ff" stroke-width="1" opacity="0.2"/>
+  <!-- Main Branding Title - Stable Neon Blue Glow -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=750&height=65&lines=P.+PUHATHALOJAN;>+INITIALIZING+SECURE+SHELL..." alt="Name Header" />
 
-    <!-- Status Indicators -->
-    <g transform="translate(680, 25)" font-size="11" font-weight="bold">
-      <rect x="0" y="0" width="65" height="20" rx="4" fill="#00ff88" fill-opacity="0.1" stroke="#00ff88" stroke-width="1"/>
-      <text x="12" y="14" fill="#00ff88">● SECURE</text>
-      
-      <rect x="73" y="0" width="82" height="20" rx="4" fill="#00c2ff" fill-opacity="0.1" stroke="#00c2ff" stroke-width="1"/>
-      <text x="83" y="14" fill="#00c2ff">⚡ CONNECTED</text>
-    </g>
+  <!-- Subtitle Layer - Stable Cyber Green Accent -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&color=00FF88&center=true&vCenter=true&width=750&height=35&lines=Full+Stack+Developer+%7C+Cybersecurity+Enthusiast" alt="Subtitle Header" />
 
-    <!-- Main Branding Title -->
-    <text x="50%" y="115" text-anchor="middle" font-size="42" font-weight="800" fill="#00ff88" letter-spacing="3" style="text-shadow: 0 0 10px rgba(0,255,136,0.6);">
-      P. PUHATHALOJAN
-    </text>
+  <!-- Status Dashboard Console Links -->
+  <p>
+    <code><b>🛡️ PROTOCOL:</b> ACTIVE</code> &nbsp;|&nbsp; 
+    <code><b>🎓 EDUCATION:</b> HNDIT (SLIATE)</code> &nbsp;|&nbsp; 
+    <code><b>📍 NODE:</b> BADULLA, SRI LANKA</code>
+  </p>
 
-    <!-- Subtitle -->
-    <text x="50%" y="155" text-anchor="middle" font-size="18" font-weight="600" fill="#ffffff" opacity="0.9" letter-spacing="1">
-      Full Stack Developer <tspan fill="#00c2ff">|</tspan> Cybersecurity Enthusiast
-    </text>
-
-    <!-- UI Divider Line -->
-    <line x1="200" y1="180" x2="650" y2="180" stroke="#00c2ff" stroke-width="1" opacity="0.6" stroke-dasharray="5,5"/>
-    <circle cx="425" y="180" r="4" fill="#00c2ff"/>
-
-    <!-- Interactive Terminal Style Tagline -->
-    <text x="50%" y="215" text-anchor="middle" font-size="14" fill="#00c2ff" font-weight="500" letter-spacing="1">
-      System Online | Secure Mode Active...
-    </text>
-  </svg>
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
 </div>
 
 <br/>
 
+### 🛠️ Core Systems & Tech Stack
 
-
-   
+```ini
+[Environment: Production]   [Security_Level: Maximum]   [Status: Online]
 
 ### Aspiring Full Stack Developer
 
