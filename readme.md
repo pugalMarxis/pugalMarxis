@@ -103,10 +103,9 @@ A professional NGO website developed using WordPress.
   
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pugalMarxis&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-* LeetCode: https://leetcode.com/u/pugalMarxis/
-  
+<!-- * LeetCode: https://leetcode.com/u/pugalMarxis
  ![LeetCode Stats](https://leetcard.jacoblin.cool/pugalMarxis?theme=wtf&font=Marcellus&ext=contest)
-
+ -->
 
 
 ---
