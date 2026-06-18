@@ -1,5 +1,6 @@
 # Hi, I'm P. Puhathalojan 👋
 
+
 <div align="center">
 
   <!-- Main Branding Title - Stable Neon Blue Glow -->
@@ -140,7 +141,7 @@ A professional NGO website developed using WordPress.
 
 * Portfolio: https://pugalMarxis.com
 * Email: [raampugal07@gmail.com](mailto:raampugal07@gmail.com)
-* LinkedIn: [(https://www.linkedin.com/in/puhatha-lojan/)]
+* LinkedIn: https://www.linkedin.com/in/puhatha-lojan/
 
 ---
 
