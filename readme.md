@@ -1,12 +1,11 @@
-<--# Hi, I'm P. Puhathalojan 👋-->
-<h1 align="center">
-  Hi 👋 I'm P. Puhathalojan
-</h1>
-
+# Hi, I'm P. Puhathalojan 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;HNDIT+Student;Web+%26+Software+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a0f&height=200&section=header&text=INITIALIZING...&fontSize=35&fontColor=00ff88&animation=twinkling"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF00&center=true&vCenter=true&width=650&lines=>+System+Booting...;>+Access+Granted;>+Full+Stack+Developer+Mode;>+Cybersecurity+Learning+Active"/>
+</p>
 ### Aspiring Full Stack Developer
 
 🎓 HNDIT Student at SLIATE
