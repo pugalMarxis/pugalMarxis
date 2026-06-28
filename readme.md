@@ -48,7 +48,7 @@ To build a successful career as a Full Stack Developer while developing expertis
 ### Frontend Development
 
 - HTML5
-- CSS3
+- CSS
 * JavaScript
 * Bootstrap
 * jQuery
