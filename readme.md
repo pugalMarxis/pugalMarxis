@@ -43,76 +43,24 @@ To build a successful career as a Full Stack Developer while developing expertis
 
 ---
 
-## 🛠️ Technical Skills
-
-### Frontend Development
-
-- HTML5
-- CSS
-* JavaScript
-* Bootstrap
-* jQuery
-
-### Backend Development
-
-* PHP
-* Java
-* WordPress Development
-
-### Database
-
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Visual Studio Code
-* XAMPP
-* NetBeans
-* Discord
-
+## 🛠️ Tech Stack
+ 
+| | |
+|---|---|
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap, jQuery |
+| **Backend** | PHP, Java, WordPress |
+| **Database** | MySQL |
+| **Tools** | Git, GitHub, VS Code, XAMPP, NetBeans, Discord |
+| **Learning now** | MERN (React, Node, Express, MongoDB), Laravel, Python, Cybersecurity fundamentals |
+ 
 ---
-
-## 🌱 Currently Learning
-
-* MERN Stack Development
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* Laravel
-* Python
-* Cybersecurity Fundamentals
-
----
-
+ 
 ## 💼 Featured Projects
-
-### ⚖️ Legal Case Management System
-
-A complete web-based platform for managing legal cases, client records, appointments, and case tracking.
-
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
-
-### 📦 Inventory Management System
-
-A desktop-based inventory management solution developed using Java for efficient stock and product management.
-
-**Technologies:** Java
-
-### 🍽️ FoodBridge
-
-A platform designed to connect restaurants and charities to reduce food waste and support communities.
-
-**Technologies:** Web Technologies
-
-### 🌍 NGO Website
-
-A professional NGO website developed using WordPress.
-
-**Technologies:** WordPress
-
+ 
+- ⚖️ **Legal Case Management System** — Web platform for case, client & appointment tracking · `PHP · MySQL · Bootstrap`
+- 📦 **Inventory Management System** — Desktop stock/product manager · `Java`
+- 🍽️ **FoodBridge** — Connects restaurants and charities to cut food waste · `Web`
+- 🌍 **NGO Website** — Professional site built for an NGO · `WordPress`
 ---
 
 ## 📊 GitHub Statistics
